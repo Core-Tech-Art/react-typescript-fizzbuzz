@@ -1,0 +1,1 @@
+Please out put fizzbuzz arrays that given from input field.
