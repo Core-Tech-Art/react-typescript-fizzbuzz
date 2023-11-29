@@ -1,12 +1,11 @@
-import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 import './layout/MainGridLayout'
+import MainGridLayout from './layout/MainGridLayout';
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        
+        <MainGridLayout/>
       </header>
     </div>
   );
